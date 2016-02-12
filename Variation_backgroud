@@ -1,0 +1,30 @@
+#Calculus of variation and
+#Energy minumum principles
+
+Here is a background introduction on:
+
+-Energy minimum principles
+-Calculus of variation
+
+-Free energy minimum principle:
+
+The 2nd law of thermaldynamics state that:
+  /for a isolated system, the entropy can only increase/
+
+this means, a system's equilibrim state marked by the realizition of maximum entropy.
+famous example including the mixing of different gases and free expansion.
+
+However, if the system is connected to a resovior(enenrgy can be transfer to such resovior) which has a 
+constent temperture or pressure. The entropy maximum entropy should be replaced by its mathmatically
+equivalent minimum energy priciple for practical reasons.
+
+For example, two cups of water with different temperature mixing, if the cup are under const. T and P.
+It will reach equilibrium when its Gibbs free energy reaches minimum.(this statment is not entirely true)
+
+Moreover, since most phenomenon we concerned, like strain or magnetic momentum, is a macroscopic thermodynamic
+variables. Many problem can be solved by this priciple.
+
+-Calculus of variation
+
+calculus of variation can solve problem like:
+
